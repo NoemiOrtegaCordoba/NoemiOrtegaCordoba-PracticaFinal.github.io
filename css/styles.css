@@ -24,8 +24,8 @@
 }
 
 body {
-	/*background-image: linear-gradient(to top right, #ECEFF1, #CFD8DC, #B0BEC5, #90A4AE, #78909C, #607D8B, #546E7A, #455A64, #37474F, #263238, #212121);*/
-	background-image: linear-gradient(to top right, #757575, #616161, #424242, #212121);
+	background-image: linear-gradient(to top right, #ECEFF1, #CFD8DC, #B0BEC5, #90A4AE, #78909C, #607D8B, #546E7A, #455A64, #37474F, #263238, #212121);
+	/*background-image: linear-gradient(to top right, #757575, #616161, #424242, #212121);*/
 	/*background-color: #000;*/
 }
 
